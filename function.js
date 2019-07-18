@@ -32,3 +32,17 @@ function myNam(string) {
     return string.toUpperCase();
      
 },
+
+    
+    
+    // json practice
+parseInt("31");
+
+let human = {
+    name: "wajahat",
+    age: 40,
+    isHappy: "false",
+    eat: function (meal) {
+        console.log("eating" + meal);
+    },
+}
